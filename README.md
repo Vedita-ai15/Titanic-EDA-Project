@@ -26,5 +26,4 @@ This project explores the Titanic dataset to analyze survival rates based on dif
 3. Run all cells
 
 ## ✨ Author
-- [VEDITA]
-
+- [VEDITA](https://github.com/Vedita-ai15)
